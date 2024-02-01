@@ -30,4 +30,4 @@ Jag förstår vikten av korrekt rapportering och avlastar finansinstitut från b
 Genom att anlita min tjänst kan ni vara säkra på att er FALS-rapportering hanteras professionellt och att era data är noggrant strukturerade enligt kraven.
 
 Observera att rapporteringstiden för våren 2024 sträcker sig från 16 januari till 15 mars.
-Kontakta mig på marcus.rommedahl@gmail.com för att diskutera hur jag kan hjälpa er!
+Kontakta mig på [marcus.rommedahl@gmail.com](mailto:marcus.rommedahl@gmail.com) för att diskutera hur jag kan hjälpa er!
