@@ -2,3 +2,5 @@ theme: jekyll-theme-cayman
 title: FALS-rapportering
 description: Tjänster för att underlätta FALS-rapporteringen till Finansinspektionen.
 show_downloads: false
+github:
+  is_project_page: false
