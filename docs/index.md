@@ -1,5 +1,3 @@
-# FALS-rapportering
-
 Jag hjälper finansinstitut att effektivt sammanställa och presentera data enligt Finansinspektionens (FI) specifikationer för deras FALS-studie.
 
 ## Om tjänsten
