@@ -1,2 +1,2 @@
-# fsa_reporting
-Github page for promoting the FSA reporting services
+# fals-reporting
+Github page for promoting services for the FALS reporting to the Swedish FSA.
